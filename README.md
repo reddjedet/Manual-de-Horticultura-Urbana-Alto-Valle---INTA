@@ -1,5 +1,6 @@
 # 🌿 MOC: Manual de Horticultura Urbana (Alto Valle) - INTA
-<img width="1000" height="705" alt="Imagen larga 17-04-2026 18 18" src="https://github.com/user-attachments/assets/23e51ca3-b213-463b-a5ce-b83562ddc15e" />
+<img width="2892" height="2040" alt="CamScanner 17-04-2026 18 17" src="https://github.com/user-attachments/assets/4c06595d-41c4-4984-a92c-2145a407fb1f" />
+
 
 
  ## 🗺️ I. Estrategia y Diseño Ambiental
