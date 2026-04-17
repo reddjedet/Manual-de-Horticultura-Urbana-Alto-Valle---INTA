@@ -275,5 +275,7 @@ Sobre las dudas frecuentes y procesos específicos, las fuentes destacan lo sigu
 - **¿Qué es la Chacra Bareto?** Un espacio municipal de 6 hectáreas donde los vecinos pueden ir a cultivar a mayor escala de forma gratuita.
 - **¿Cómo se sabe que la semilla de lechuga está lista para cosechar?** Cuando la planta desarrolla una pelusita blanca o plumosa similar a la del diente de león.
 
+---
+
   > Elaborado con notebooklm, obsidian, gemini y Qwen2.5 VL 7B Instruct (LLM).
   > Muy agradecido con el Instituto Nacional de Tecnologia Agropecuaria Argentina por esta oportunidad y por hacerlo agradable y llevadero.
