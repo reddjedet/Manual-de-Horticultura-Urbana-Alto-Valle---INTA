@@ -91,7 +91,7 @@ Cuando se siembra en recipientes (siembra indirecta), no se utiliza tierra comú
 
 Esta combinación crea un medio **mullido y esponjoso** que permite que las raíces jóvenes respiren y crezcan sin resistencia, reteniendo la humedad necesaria para la germinación sin encharcarse.
 
-## 🌱 III. Gestión del Cultivo (Basado en INTA)
+## 🌱 III. Gestión del Cultivo
 
 La gestión del cultivo requiere precisión tanto en la colocación de la semilla como en el movimiento de los plantines para asegurar su supervivencia y desarrollo óptimo. A continuación, se detallan los procedimientos técnicos basados en las fuentes:
 
@@ -140,7 +140,7 @@ La incorporación de flores y aromáticas es esencial para atraer polinizadores 
 
 Cuando la prevención no es suficiente, se recurre a remedios caseros probados técnicamente:
 
-- **Caldo de Jabón y Ceniza:**
+- **Caldo de Jabón y Ceniza: (receta para 1/2 hectárea, si)**
     - **Utilidad:** Controla insectos picadores-suctores como **pulgones y cochinillas**, y algunos masticadores si la concentración de ceniza es alta.
     - **Preparación:** En 1 litro de agua, se disuelve un dado de jabón blanco (de lavar la ropa) y ceniza de leña colada (que no tenga grasa de asado).
     - **Proceso:** Se hierve la mezcla durante **15 a 20 minutos**. Una vez frío, se filtra con una tela fina para no tapar el pulverizador.
